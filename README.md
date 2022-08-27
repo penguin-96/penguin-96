@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Business Performance Dashboard](https://github.com/penguin-96/BI/tree/main/BP%20analysis)
 
-- 🌱 I’m currently learning **Stats, Deep Learning, AWS**
+- 🌱 I’m currently learning ** Deep Learning, Deployment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/penguin-96](https://github.com/penguin-96)
 
