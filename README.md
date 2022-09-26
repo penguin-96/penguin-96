@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Ajmera</h1>
 <h3 align="center">A Data Analyst from India</h3>
 
-- 🔭 I’m currently working on [Business Performance Dashboard](https://github.com/penguin-96/BI/tree/main/BP%20analysis)
+- 🔭 I’m currently working on [Omdena Core Global Project](https://omdena.com/projects/ai-maternal-care/)
 
 - 🌱 I’m currently learning ** Deep Learning, Deployment**
 
