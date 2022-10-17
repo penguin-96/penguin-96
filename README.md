@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Business, Marketing, Data Analysis**
 
-- 📫 How to reach me **hireaayush@gmail.com**
+- 📫 How to reach me **contactaayushajmera@gmail.com**
 
 - ⚡ Fun fact **YNNUF**
 
